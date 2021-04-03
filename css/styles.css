@@ -29,12 +29,13 @@
 }
 
 h1 {
+  color: #fff;
   text-align: right;
 }
 
 .header {
   background: url("../images/img1.jpg");
-  max-height: 100px;
+  background-size: auto;
   max-width: 100%;
 }
 
