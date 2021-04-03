@@ -1,0 +1,52 @@
+.anchor {
+  color: #b4aee8;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+.buttonLeft {
+  margin: auto;
+  margin-top: 0;
+  padding-right: 0;
+}
+
+.buttonRight {
+  margin: auto;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.display {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.footer {
+  background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+  max-height: 100px;
+  max-width: 100%;
+  text-align: center;
+}
+
+h1 {
+  text-align: right;
+}
+
+.header {
+  background: url("../images/img1.jpg");
+  max-height: 100px;
+  max-width: 100%;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 5%;
+}
+
+.imageStyle {
+  border-radius: 1.5rem;
+  max-width: 90%;
+}
